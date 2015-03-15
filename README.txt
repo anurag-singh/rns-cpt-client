@@ -1,14 +1,14 @@
-=== Plugin Name ===
+=== RNS CPT Client ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: http://example.com/
-Tags: comments, spam
+Tags: custom post type, cpt, meta box, client, client portfolio
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Add a Custom Post Type 'Client' for creating a client portfolio page. Add a custom meta box on the custom post type 'client' page and some input fields to add some metadata.
 
 == Description ==
 
@@ -77,7 +77,7 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 == Upgrade Notice ==
 
 = 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+Write the code according to the coding standards and documentation standard. Well described with comments.
 
 = 0.5 =
 This version fixes a security related bug.  Upgrade immediately.
