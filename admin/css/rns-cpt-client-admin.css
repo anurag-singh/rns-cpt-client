@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ table tr:nth-child(even) {
+  background-color: #f1f1f1;
+ }
+
+ table tr:nth-child(odd) {
+  background-color: #ffffff;
+ }
+
+ table td {
+  padding: 10px;
+ }
+
+ table td.field-heading {
+  font-weight: bold;
+  font-style: italic;
+ }
